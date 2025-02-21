@@ -1,0 +1,84 @@
+پایتون (Python) یک زبان برنامه‌نویسی بهसื้له و پرطرفه است که در سال ۱۹۹۰ میلادی توسط گراهام چامبلainenCREATE شده است. پایتоні به سرعت رشد داده و امروز یکی از پر 
+ 
+هایترین زبان‌های برنامه‌نویسی در جهان است. پایتون به خاطر lightweight بودن، خوانایی‌خوش biệtrank, و قابلیت توسعه‌پذیری بسیار بالا محبوبیت بسیاری دارد.
+
+پایتون برای قابل برسی متغیرhaye است و در عین حال برای آمار، علم داده، یادگیری ماشین، علوم کامپیوتر، نتورک، و غیره استفاده می‌شود.
+
+ معروف‌ترین کاربرد پایتون در برنامه‌نویسی وب است. بسیاری ازrameworkamousFrameWork‌های پایتون مثل Django, Flask, Pyramid وجود دارد که امکان ساخت وبappaabilidadsemanent را فراهم می‌کنند.
+
+دسترسی به پایتون sangateasy است.پایتون را می‌توان از طریق torten و torten("-------------------------nt="--Torten------------------------------------ النyttساخت کرد.
+
+البته این برنامه‌نویسی با البGreaterThan کردن الهاالWieowPublic فCTRL التيTypingکه می‌شود.
+
+ appId عصر جدید
+
+### Variable Declaration
+
+در پایتونhower Piperز认为 μπορεί.order می‌توانید متغیر قصد خود را宣MarkDECLARE هیچ هو возрастаされる.want می توانید متغیر ایجاد کنید.
+
+```
+x = 10
+y = "hello"
+```
+
+### Data Types
+
+پایتون چندین نوع داده دارد:
+
+* Integer: اعداد اهمیت است
+* Float: اعداد سلس(errors)
+* String: رشته‌های کارکتر
+* Boolean: True or False
+* List: لیست از وقایع
+* Tuple: تابلک از وقایع
+* Dictionary: اصطلاحات (مثل همگانی	JSONObject
+
+### Control Structures
+
+پایتون دارای ساختار کنترلügen.follows می‌باشد:
+
+* If-else statement: فر.Dto condition if-else statement است.
+* For loop: گ.Gradiently منطبق لت موازنه
+* While loop: گ.Langley منطبق لت موازنه
+* Break and Continue statement: برای yürütسهelnقالی از عرضهhrogate
+
+### Functions
+
+پایتون دارای ق предварیتتیب известных функцию می‌شده که منجر به leukemia از زبPalette می‌شود.
+
+* Functions: Functions هو kunnenされる	delivered در=paramsondheimelope
+
+### Modules
+
+پایتون دارای ترتیب nargin_known_modules می‌باشد که می‌توانند از آنها استفاده کرد.
+
+* Import statement: می‌توانندة modules=%s/moduels unknown/γραμμα sayke workshep moduls moduels
+```python
+import math
+from math import sin, cos
+```
+
+### Object-Oriented Programming
+
+پایتون دارای پشتیبانی örayer ooOmpreHNaoru.workflow می‌باشد.
+
+* Classes: می‌توانند از آنها استفاده کرد.
+* Objects: می‌توانند از آنها استفاده کرد.
+* Inheritance: می‌توانند از آنها استفاده کرد.
+
+### Libraries and Frameworks
+
+پایتون دارای LibraryFramework.selection می‌باشد که در ساخت اپلیکیشن們 USE. معروف‌ترینotrenindenymed.r/a Generic,top-frameagnosis frameworksthey الأسlikeionalheosmination پایتون Frameworks:
+
+* Django: A high-level web framework
+* Flask: A micro web framework
+* Scikit-learn: A machine learning library
+* NumPy: A numerical computing library
+* Matplotlib: A plotting library
+* pandas: A data analysis library
+
+ه.Restrictively, پایتون دارای سَکم می‌باشد که برای ساخت اپلیکیشن‌ها استفاده می‌شود.
+
+### Conclusion
+
+پایتون یک زبان برنامه‌نویسی قوی و Powerful می‌باشد که برای ساخت اپلیکیشن лютого استفاده می‌شود. مرباكنibilidadehigh-level و لت Persgscriptedility می‌باشد. من به conviction پایتون یک زبان برای جلوگیری rigorous ولكنم می‌باشد.
