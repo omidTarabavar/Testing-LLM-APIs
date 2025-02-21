@@ -75,6 +75,3 @@ models = [
 
 #for i in range(len(models)):
 #    test_model(models[i])
-
-
-test_model("mistralai/mistral-nemo:free")
